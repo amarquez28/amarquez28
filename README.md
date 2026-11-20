@@ -68,7 +68,13 @@ i learn by building. lately that means **Rust** CLIs and TUIs, **C** in the kern
   <img src="https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=83a598"/>
   <img src="https://img.shields.io/badge/PostgreSQL-282828?style=for-the-badge&logo=postgresql&logoColor=83a598"/>
   <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=fe8019"/>
-  <img src="https://img.shields.io/badge/CLion-282828?style=for-the-badge&logo=clion&logoColor=b8bb26"/>
+  <img src="https://img.shields.io/badge/Zed-282828?style=for-the-badge&logo=zedindustries&logoColor=8ec07c"/>
+</p>
+
+**Learning Next**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-282828?style=for-the-badge&logo=go&logoColor=8ec07c"/>
 </p>
 
 <p align="center">⋆｡°✩ ⌨︎ ✩°｡⋆</p>
