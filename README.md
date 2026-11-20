@@ -53,9 +53,9 @@ i learn by building. lately that means **Rust** CLIs and TUIs, **C** in the kern
   <img src="https://img.shields.io/badge/Ratatui%20%2F%20Crossterm-282828?style=for-the-badge&logo=rust&logoColor=ebdbb2"/>
   <img src="https://img.shields.io/badge/ROS%202-282828?style=for-the-badge&logo=ros&logoColor=ebdbb2"/>
   <img src="https://img.shields.io/badge/TensorRT-282828?style=for-the-badge&logo=nvidia&logoColor=b8bb26"/>
-  <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=8ec07c"/>
-  <img src="https://img.shields.io/badge/SvelteKit-282828?style=for-the-badge&logo=svelte&logoColor=fb4934"/>
-  <img src="https://img.shields.io/badge/Astro-282828?style=for-the-badge&logo=astro&logoColor=d3869b"/>
+  <!-- <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=8ec07c"/> -->
+  <!-- <img src="https://img.shields.io/badge/SvelteKit-282828?style=for-the-badge&logo=svelte&logoColor=fb4934"/> -->
+  <!-- <img src="https://img.shields.io/badge/Astro-282828?style=for-the-badge&logo=astro&logoColor=d3869b"/> -->
 </p>
 
 **Tools**
